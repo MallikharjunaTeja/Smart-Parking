@@ -25,5 +25,4 @@ To run the python files you need to have python,tkinter and opencv2 installed on
 
 
 
-https://user-images.githubusercontent.com/112918796/207027738-54ef910d-7f35-49e7-b074-537bc6e6028e.mp4
 
